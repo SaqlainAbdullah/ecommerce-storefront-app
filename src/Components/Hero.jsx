@@ -34,7 +34,7 @@ const Hero = () => {
         {/* Right Side: Image */}
         <div className="flex-1 mt-10 md:mt-0">
           <img
-            src="\Shopping-banner.jpg"
+            src="/Shopping-banner.jpg"
             alt="Shopping banner"
             className="w-full rounded-2xl shadow-lg"
           />
